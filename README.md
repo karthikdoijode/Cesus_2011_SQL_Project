@@ -4,7 +4,7 @@ Analysis of the Indian Census 2011
 Objective: To find good insights from the Indian Census 2011 data which is available on Internet
 
 About the dataset: We have two csv files, [one](https://github.com/karthikdoijode/Cesus_2011_SQL_Project/blob/main/Dataset1_CSV%20.csv) which is having information such as growth, sex_ratio and literacy for each district of every state
-[another]() which is having area of each district square kilometer and population of each district of every state.
+[another](https://github.com/karthikdoijode/Cesus_2011_SQL_Project/blob/main/Dataset2_CSV.csv) which is having area of each district square kilometer and population of each district of every state.
 
 Few Good Insights we explored from data:
 1.Highest literate district in Karnataka
@@ -14,4 +14,3 @@ Few Good Insights we explored from data:
 5.States having literacy rate greater than 90
 6.Found total no of literate and illiterates in each state
 7.Top 3 districts in every state in terms of literacy
-8.[Top 3 districts in every state in terms of sex_ratio]()
